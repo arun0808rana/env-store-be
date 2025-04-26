@@ -1,7 +1,7 @@
-# Awesome Project Build with TypeORM
+todos
 
-Steps to run this project:
-
-1. Run `npm i` command
-2. Setup database settings inside `data-source.ts` file
-3. Run `npm start` command
+- user routes
+- inheritance of envTypes from other types
+- inheritance of env variables from other variables
+- rbac
+- revoke access from users for projects once projects are frozen
